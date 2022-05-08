@@ -1,2 +1,2 @@
 # selection system
- just like vending mechine
+ concept taken from vending mechine program, work done by using oop principles.
